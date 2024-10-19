@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Title"
+title                    : "Personal Blog"
 title_separator          : "-"
-subtitle                 : "Subtitle"
+subtitle                 : "My personal thoughts and ideas on various topics"
 name                     : "Seongjae Kang"
-description              : "Description"
+description              : "🔥🔥🔥🔥🔥"
 # url                      : "https://erjui.github.io"
 # baseurl                  : ""
 # repository               : "erjui/erjui.github.io"
@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Seongjae Kang"
-  avatar           : "/assets/images/bio-photo.png"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Nice to meet you!"
   location         : "Seoul, Republic of Korea"
   email            : "ksj970531@gmail.com"
