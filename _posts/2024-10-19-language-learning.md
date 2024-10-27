@@ -1,8 +1,9 @@
 ---
 layout: posts
-title: "Language Learning Methods"
+title: "Recent tries on Language Learning: Part 1"
 date: 2024-10-19
 categories: [blog]
+tags: [language learning]
 ---
 
 # Language Learning Methods
