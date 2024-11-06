@@ -183,8 +183,10 @@ Here, I made two mistake. The first one is that I connected cable for booting th
 
 <div style="text-align: center">
 <img src="/assets/videos/posts/desktop-setup/complete.gif" width="70%" alt="Computer booting up">
+</div>
 
-*The completed build booting up for the first time*
+<div style="text-align: center">
+<em>The completed build booting up for the first time</em>
 </div>
 
 Finally, I booted up the computer, and then I was able to enjoy the computer. And these are the remaining processes that I need to do:
