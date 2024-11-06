@@ -6,8 +6,6 @@ categories: [blog]
 tags: [productivity, workspace, technology]
 ---
 
-# Crafting the Perfect Workspace: My Journey to an Efficient Desktop Setup
-
 ## Introduction
 
 As a computer science major as well as a graduate degree in AI, I've always dreamed of building my own computer. Building my own workspace, setting up my personal server, and doing various experiments and projects have always been my dreams for a long time.
@@ -23,7 +21,7 @@ In the following sections, I'll take you through my carefully chosen desktop con
 ### Computer
 My desktop build consists of the following components:
 
-![Components Arrived](/assets/images/posts/desktop-setup/computer_1.jpg) ![My Desktop Setup](/assets/images/posts/desktop-setup/computer_2.jpg)
+<img src="/assets/images/posts/desktop-setup/computer_1.jpg" width="49%" alt="Components Arrived"> <img src="/assets/images/posts/desktop-setup/computer_2.jpg" width="49%" alt="My Desktop Setup">
 *Components arrived and ready for assembly (left), My current desktop setup with single monitor and custom keyboard (right)*
 
 
@@ -36,8 +34,11 @@ My desktop build consists of the following components:
 - **Case**: MAG FORGE 120A AIRFLOW WHITE - Compact ATX case with excellent airflow and clean aesthetics
 - **Cooling**: AG400 - Air cooler for the CPU with excellent price-to-performance ratio
 
-![My Peripherals](/assets/images/posts/desktop-setup/peripherals.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/peripherals.jpg" style="max-width: 70%; width: 70%;" alt="My Peripherals">
+
 *My current peripherals setup featuring single LG 4K monitor, Logitech MX Keys keyboard, and Pro X Superlight 2 mouse*
+</div>
 
 
 ### Peripherals
@@ -54,21 +55,27 @@ Note that I'm not a professional computer builder, so I might not be able to exp
 
 ### 2. Install CPU to the mainboard
 
-![Installing CPU](/assets/images/posts/desktop-setup/cpu.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/cpu.jpg" width="70%" alt="Installing CPU">
+
 *Installing CPU to the mainboard*
+</div>
 
 After choosing the components, I started to install the CPU to the mainboard. The process was quite easy. I just need to remove the cover of the mainboard, and then put the CPU in the right place. But in this process, It should be considered that I need to be careful not to damage the CPU or the mainboard.
 
 ### 3. Install RAM
 
-![Installing RAM](/assets/images/posts/desktop-setup/memory.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/memory.jpg" width="70%" alt="Installing RAM">
+
 *Installing RAM to the mainboard*
+</div>
 
 The next thing I need to do is to install the RAM to the mainboard. This process, as well, is not difficult. The thing I need to do is just to put the RAM in the right slots. But one thing that should be considered is that, when I put the RAM in the slots, I need to put the RAM in the right way. That is, most motherboards have 4 RAM slots, and for optimal dual-channel performance, you typically want to install the RAM sticks in the first and third slots (or according to your motherboard's manual).
 
 ### 4. Install M.2 SSD
 
-![Installing M.2 SSD](/assets/images/posts/desktop-setup/ssd_1.jpg) ![Installing M.2 SSD](/assets/images/posts/desktop-setup/ssd_2.jpg)
+<img src="/assets/images/posts/desktop-setup/ssd_1.jpg" width="49%" style="object-fit: cover; object-position: top; height: 300px;" alt="Installing M.2 SSD"> <img src="/assets/images/posts/desktop-setup/ssd_2.jpg" width="49%" alt="Installing M.2 SSD">
 *Installing M.2 SSD to the mainboard - Left: First M.2 slot for 500GB primary drive, Right: Second M.2 slot for 500GB secondary drive*
 
 Now I have to install the M.2 SSD to the mainboard. To install the M.2 SSD, I need to remove the cover of the mainboard. Opps.. Here I realized that my screw driver is not fit into the screw hole of the mainboard. This makes me wait another day to continue the process.
@@ -77,8 +84,11 @@ The next day, I finally got the right screw driver and installed the M.2 SSD. An
 
 ### 5. Install mainboard to the case
 
-![Installing Mainboard to the Case](/assets/images/posts/desktop-setup/mainboard.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/mainboard.jpg" width="70%" alt="Installing Mainboard to the Case">
+
 *Installing mainboard to the case*
+</div>
 
 Now I need to move on to installing mainboard to the case. The first thing I need to do is to open the case, and then it seemed easy at first glance. Things went smoothly at first. I put the mainboard in the right place, and then I started to screw the mainboard to the case. And then opps.. I forgot to put additional standoffs for the mainboard. This makes me take out the mainboard from the case, and then I put the additional standoffs. And then I put the mainboard back to the case, and then I started to screw the mainboard to the case again.
 
@@ -86,8 +96,11 @@ It was until now that I realized that I forgot to install the last standoff for 
 
 ### 6. Install Cooling System
 
-![Installing Cooling System](/assets/images/posts/desktop-setup/cooling_0.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/cooling_0.jpg" width="70%" alt="Installing Cooling System">
+
 *Installing cooling system to the mainboard*
+</div>
 
 There are a variety of cooling systems for the CPU. That being said, I need to carefully read the instruction manual for the cooling system I purchased. Oh, It seems quite easy to install the cooling system. I just need to attach holders to the mainboard, and then apply thermal paste to the CPU, and then attach the cooling system to the CPU.
 
@@ -95,29 +108,44 @@ But the thing has happened as usual. I could not remove the screw from the mainb
 
 After waiting another couple of days, I finally got the bigger driver, and then I installed the cooling system to the mainboard. To be able to install the cooling system, first thing I need to do is to remove the screw from the mainboard around the CPU. After removing the screws, I attached the mounting brackets that came with the cooling system to the mainboard. Then, I carefully applied thermal paste to the CPU and mounted the cooling system on top with care.
 
-![Installing Cooling System](/assets/images/posts/desktop-setup/cooling_1.jpg) ![Installing Cooling System](/assets/images/posts/desktop-setup/cooling_2.jpg) ![Installing Cooling System](/assets/images/posts/desktop-setup/cooling_3.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/cooling_1.jpg" width="32%" alt="Installing Cooling System"> <img src="/assets/images/posts/desktop-setup/cooling_2.jpg" width="32%" alt="Installing Cooling System"> <img src="/assets/images/posts/desktop-setup/cooling_3.jpg" width="32%" alt="Installing Cooling System">
+
 *Installing cooling system to the mainboard - Left: Attaching mounting brackets, Middle: Applying thermal paste, Right: Mounting the cooler*
+</div>
 
 ### 7. Install GPU
 
-![Installing GPU](/assets/images/posts/desktop-setup/gpu.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/gpu.jpg" width="70%" alt="Installing GPU">
+
 *Installing GPU to the mainboard*
+</div>
 
 The next thing I need to do is to install the GPU. Installing the GPU is quite easy. I just need to attach the GPU to the mainboard with the help of the bracket that came with the GPU. The GPU I purchased is double-slot RTX 4060 Ti. For reference, I bought 16GB of VRAM of 4060 Ti (4060 Ti comes with 8GB and 16GB of VRAM). And the reason why I bought 16GB of VRAM is that I want to have more VRAM for my deep learning projects 🔥.
 
 ### 8. Install PSU
 
-![Installing PSU](/assets/images/posts/desktop-setup/psu.jpg)
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/psu.jpg" width="70%" alt="Installing PSU">
+
 *Installing PSU to the case*
+</div>
 
 Now we are ready to install the PSU. PSU is the power supply unit, and it is the most important component in the computer, because it provides power to the computer. Here, I put the PSU on the back bottom of the case, allowing enough space for the PSU's ventilation and also making it easier to connect cables. And I'm now ready to connect cables.
 
 ### 9. Connect cables
 
-<img src="/assets/images/posts/desktop-setup/cable_0.jpg" width="400" alt="Connecting Cables">
-*Connecting cables to components*
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/cable_0.jpg" width="70%" alt="Connecting Cables">
 
-<img src="/assets/images/posts/desktop-setup/cable_1.jpg" width="400" alt="Connecting Cables"> <img src="/assets/images/posts/desktop-setup/cable_2.jpg" width="400" alt="Connecting Cables"> <img src="/assets/images/posts/desktop-setup/cable_3.jpg" width="400" alt="Connecting Cables">
+*Connecting cables to components*
+</div>
+
+<div style="text-align: center">
+<img src="/assets/images/posts/desktop-setup/cable_1.jpg" width="32%" alt="Connecting Cables"> <img src="/assets/images/posts/desktop-setup/cable_2.jpg" width="32%" alt="Connecting Cables"> <img src="/assets/images/posts/desktop-setup/cable_3.jpg" width="32%" alt="Connecting Cables">
+</div>
+
 *Connecting cables to components - Left: Connecting PSU cables to mainboard, Middle: Connecting case cables to mainboard, Right: Cable management*
 
 
@@ -128,11 +156,14 @@ Here, I made two mistake. The first one is that I connected cable for booting th
 ### 10. Boot up and enjoy!
 
 
+<div style="text-align: center">
 <video width="100%" controls>
   <source src="/assets/videos/posts/desktop-setup/complete.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<em>The completed build booting up for the first time</em>
+
+*The completed build booting up for the first time*
+</div>
 
 Finally, I booted up the computer, and then I was able to enjoy the computer. And these are the remaining processes that I need to do:
 
