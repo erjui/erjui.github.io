@@ -36,9 +36,12 @@ My desktop build consists of the following components:
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/peripherals.jpg" style="max-width: 70%; width: 70%;" alt="My Peripherals">
-
-*My current peripherals setup featuring single LG 4K monitor, Logitech MX Keys keyboard, and Pro X Superlight 2 mouse*
 </div>
+
+<div style="text-align: center">
+<em>My current peripherals setup featuring single LG 4K monitor, Logitech MX Keys keyboard, and Pro X Superlight 2 mouse</em>
+</div>
+
 
 
 ### Peripherals
@@ -57,8 +60,10 @@ Note that I'm not a professional computer builder, so I might not be able to exp
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/cpu.jpg" width="70%" alt="Installing CPU">
+</div>
 
-*Installing CPU to the mainboard*
+<div style="text-align: center">
+<em>Installing CPU to the mainboard</em>
 </div>
 
 After choosing the components, I started to install the CPU to the mainboard. The process was quite easy. I just need to remove the cover of the mainboard, and then put the CPU in the right place. But in this process, It should be considered that I need to be careful not to damage the CPU or the mainboard.
@@ -67,16 +72,23 @@ After choosing the components, I started to install the CPU to the mainboard. Th
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/memory.jpg" width="70%" alt="Installing RAM">
+</div>
 
-*Installing RAM to the mainboard*
+<div style="text-align: center">
+<em>Installing RAM to the mainboard</em>
 </div>
 
 The next thing I need to do is to install the RAM to the mainboard. This process, as well, is not difficult. The thing I need to do is just to put the RAM in the right slots. But one thing that should be considered is that, when I put the RAM in the slots, I need to put the RAM in the right way. That is, most motherboards have 4 RAM slots, and for optimal dual-channel performance, you typically want to install the RAM sticks in the first and third slots (or according to your motherboard's manual).
 
 ### 4. Install M.2 SSD
 
+<div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/ssd_1.jpg" width="49%" style="object-fit: cover; object-position: top; height: 300px;" alt="Installing M.2 SSD"> <img src="/assets/images/posts/desktop-setup/ssd_2.jpg" width="49%" alt="Installing M.2 SSD">
-*Installing M.2 SSD to the mainboard - Left: First M.2 slot for 500GB primary drive, Right: Second M.2 slot for 500GB secondary drive*
+</div>
+
+<div style="text-align: center">
+<em>Installing M.2 SSD to the mainboard - Left: First M.2 slot for 500GB primary drive, Right: Second M.2 slot for 500GB secondary drive</em>
+</div>
 
 Now I have to install the M.2 SSD to the mainboard. To install the M.2 SSD, I need to remove the cover of the mainboard. Opps.. Here I realized that my screw driver is not fit into the screw hole of the mainboard. This makes me wait another day to continue the process.
 
@@ -86,10 +98,11 @@ The next day, I finally got the right screw driver and installed the M.2 SSD. An
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/mainboard.jpg" width="70%" alt="Installing Mainboard to the Case">
-
-*Installing mainboard to the case*
 </div>
 
+<div style="text-align: center">
+<em>Installing mainboard to the case</em>
+</div>
 Now I need to move on to installing mainboard to the case. The first thing I need to do is to open the case, and then it seemed easy at first glance. Things went smoothly at first. I put the mainboard in the right place, and then I started to screw the mainboard to the case. And then opps.. I forgot to put additional standoffs for the mainboard. This makes me take out the mainboard from the case, and then I put the additional standoffs. And then I put the mainboard back to the case, and then I started to screw the mainboard to the case again.
 
 It was until now that I realized that I forgot to install the last standoff for the mainboard. And then, holy smokes.. The standoff was ran out of stock. I was able to put 8 out of 9 standoffs, and then decided to be satisfied with the result.
@@ -98,8 +111,10 @@ It was until now that I realized that I forgot to install the last standoff for 
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/cooling_0.jpg" width="70%" alt="Installing Cooling System">
+</div>
 
-*Installing cooling system to the mainboard*
+<div style="text-align: center">
+<em>Installing cooling system to the mainboard</em>
 </div>
 
 There are a variety of cooling systems for the CPU. That being said, I need to carefully read the instruction manual for the cooling system I purchased. Oh, It seems quite easy to install the cooling system. I just need to attach holders to the mainboard, and then apply thermal paste to the CPU, and then attach the cooling system to the CPU.
@@ -110,16 +125,20 @@ After waiting another couple of days, I finally got the bigger driver, and then 
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/cooling_1.jpg" width="32%" alt="Installing Cooling System"> <img src="/assets/images/posts/desktop-setup/cooling_2.jpg" width="32%" alt="Installing Cooling System"> <img src="/assets/images/posts/desktop-setup/cooling_3.jpg" width="32%" alt="Installing Cooling System">
+</div>
 
-*Installing cooling system to the mainboard - Left: Attaching mounting brackets, Middle: Applying thermal paste, Right: Mounting the cooler*
+<div style="text-align: center">
+<em>Installing cooling system to the mainboard - Left: Attaching mounting brackets, Middle: Applying thermal paste, Right: Mounting the cooler</em>
 </div>
 
 ### 7. Install GPU
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/gpu.jpg" width="70%" alt="Installing GPU">
+</div>
 
-*Installing GPU to the mainboard*
+<div style="text-align: center">
+<em>Installing GPU to the mainboard</em>
 </div>
 
 The next thing I need to do is to install the GPU. Installing the GPU is quite easy. I just need to attach the GPU to the mainboard with the help of the bracket that came with the GPU. The GPU I purchased is double-slot RTX 4060 Ti. For reference, I bought 16GB of VRAM of 4060 Ti (4060 Ti comes with 8GB and 16GB of VRAM). And the reason why I bought 16GB of VRAM is that I want to have more VRAM for my deep learning projects 🔥.
@@ -128,8 +147,10 @@ The next thing I need to do is to install the GPU. Installing the GPU is quite e
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/psu.jpg" width="70%" alt="Installing PSU">
+</div>
 
-*Installing PSU to the case*
+<div style="text-align: center">
+<em>Installing PSU to the case</em>
 </div>
 
 Now we are ready to install the PSU. PSU is the power supply unit, and it is the most important component in the computer, because it provides power to the computer. Here, I put the PSU on the back bottom of the case, allowing enough space for the PSU's ventilation and also making it easier to connect cables. And I'm now ready to connect cables.
@@ -138,15 +159,19 @@ Now we are ready to install the PSU. PSU is the power supply unit, and it is the
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/cable_0.jpg" width="70%" alt="Connecting Cables">
+</div>
 
-*Connecting cables to components*
+<div style="text-align: center">
+<em>Connecting cables to components</em>
 </div>
 
 <div style="text-align: center">
 <img src="/assets/images/posts/desktop-setup/cable_1.jpg" width="32%" alt="Connecting Cables"> <img src="/assets/images/posts/desktop-setup/cable_2.jpg" width="32%" alt="Connecting Cables"> <img src="/assets/images/posts/desktop-setup/cable_3.jpg" width="32%" alt="Connecting Cables">
 </div>
 
-*Connecting cables to components - Left: Connecting PSU cables to mainboard, Middle: Connecting case cables to mainboard, Right: Cable management*
+<div style="text-align: center">
+<em>Connecting cables to components - Left: Connecting PSU cables to mainboard, Middle: Connecting case cables to mainboard, Right: Cable management</em>
+</div>
 
 
 This is by far the most difficult part of the process. I need to connect cables to each component. First thing that I need to make sure is that I should manage cables properly, tie cables together, and then connect cables to each component, in order to make the computer look organized as well as to make it easier to manage cables. Then I connected cables from the PSU to the mainboard, and then connected cables from the mainboard to each component. And then I also connected cabled from the case to the mainboard as well.
