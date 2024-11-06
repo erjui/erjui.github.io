@@ -157,10 +157,7 @@ Here, I made two mistake. The first one is that I connected cable for booting th
 
 
 <div style="text-align: center">
-<video width="100%" controls>
-  <source src="/assets/videos/posts/desktop-setup/complete.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="/assets/videos/posts/desktop-setup/complete.gif" width="70%" alt="Computer booting up">
 
 *The completed build booting up for the first time*
 </div>
