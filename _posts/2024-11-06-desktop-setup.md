@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Crafting the Perfect Workspace: My Journey to an Efficient Desktop Setup"
 date: 2024-11-06
 categories: [blog]

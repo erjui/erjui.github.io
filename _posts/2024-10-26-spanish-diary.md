@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mi Diario en Español: 26 de Octubre de 2024"
 date: 2024-10-26
 categories: [blog, language-learning]

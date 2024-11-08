@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Recent tries on Language Learning: Part 1"
 date: 2024-10-19
 categories: [blog, language-learning]
