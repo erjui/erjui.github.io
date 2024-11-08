@@ -1,9 +1,11 @@
 ---
-layout: posts
+layout: single
 title: "Book Report: The Hard Thing About Hard Things by Ben Horowitz"
 date: 2024-11-08
 categories: [blog, book-review]
 tags: [entrepreneurship, business, leadership]
+classes: wide
+author_profile:
 ---
 
 ## Introduction

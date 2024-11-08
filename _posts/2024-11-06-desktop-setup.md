@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Crafting the Perfect Workspace: My Journey to an Efficient Desktop Setup"
-date: 2024-10-28
+date: 2024-11-06
 categories: [blog]
 tags: [productivity, workspace, technology]
 ---
