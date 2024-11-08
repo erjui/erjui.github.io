@@ -5,7 +5,7 @@ date: 2024-11-08
 categories: [blog, book-review]
 tags: [entrepreneurship, business, leadership]
 classes: wide
-author_profile:
+author_profile: true
 ---
 
 ## Introduction

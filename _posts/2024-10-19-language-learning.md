@@ -2,8 +2,10 @@
 layout: posts
 title: "Recent tries on Language Learning: Part 1"
 date: 2024-10-19
-categories: [blog]
+categories: [blog, language-learning]
 tags: [language learning]
+classes: wide
+author_profile: true
 ---
 
 # Language Learning Methods

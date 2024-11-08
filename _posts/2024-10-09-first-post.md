@@ -3,6 +3,8 @@ layout: posts
 title: "My First Blog Post"
 date: 2024-10-09
 categories: [blog]
+classes: wide
+author_profile: true
 ---
 
 # Welcome to My First Blog Post
