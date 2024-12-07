@@ -8,10 +8,12 @@ classes: wide
 author_profile: true
 ---
 
+
+Setting up a personal server for deep learning projects and remote access
+&nbsp;
+
 <div style="text-align: center">
 <img src="/assets/images/posts/server-setup/intro.png" style="max-width: 70%; width: 70%;" alt="Server Setup Introduction">
-
-<em>Setting up a personal server for deep learning projects and remote access</em>
 </div>
 
 ## Introduction
