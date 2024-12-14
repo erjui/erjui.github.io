@@ -14,7 +14,7 @@ Aquí tengo los ciertas temas que quiero practicar hoy:
 
 ### Sobre presentándome a mí mismo:
 **Q. ¿Cómo te llamas?, ¿De dónde eres?**
-A. Me llamo (nombre), (apellido). Soy de Corea del Sur. Es muy bueno para conocer todos aquí. Es mi primer día en este grupo, o sea, en este reunión. Entonces, estoy muy nervioso porque no puedo hablar español mucho que yo quisiera. Espero poder escuchar mucho de lo que ustedes hablan.
+A. Me llamo [nombre], [apellido]. Soy de Corea del Sur. Es muy bueno para conocer todos aquí. Es mi primer día en este grupo, o sea, en este reunión. Entonces, estoy muy nervioso porque no puedo hablar español mucho que yo quisiera. Espero poder escuchar mucho de lo que ustedes hablan.
 
 **Q. ¿Qué haces?**
 A. Trabajo como ingeniero de programación. Es decir, hago cosas con computadoras. Honestamente, mi carrera universitario fue informática, mientras que mi carrera maestría fue en inteligencia artifical. Entonces, mi trabajo es hacer cosas con computadoras, especialmente con programas de inteligencia artificial.
