@@ -55,10 +55,15 @@ Tema cuarto es que, es sobre próxima reunión este domingo. Yo no sé cómo va 
 Antes de que yo termine este diario, quiero decir un diálogo que me podría ayudar a situación antes de que yo termine una conversación con alguien en la reunión en el futuro.
 
 A: Bueno, me tengo que ir.
+
 B: Ah, está bien.
+
 A: Nos hablamos luego.
+
 B: Sí, nos vemos. Cuídate.
+
 A: Igualmente, ¡chao!
+
 B: ¡Chao!
 
 Adiós, y nos vemos luego 🙏.
