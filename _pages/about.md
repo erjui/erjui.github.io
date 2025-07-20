@@ -23,7 +23,7 @@ I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="colo
 
 **My primary research interests** include solving important problems that occur in the real world across various domains. I interested in efficient data handling (e.g., few-shot learning, self-supervised learning, semi-supervised learning, and active learning paradigms). I'm also passionate about developing expert systems that enhance and complement large-scale AI frameworks such as Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), enabling them to achieve better performance on specialized tasks.
 
-Outside of research, I enjoy learning new languages 📚 (currently studying <a href="#" onclick="toggleLanguage('spanish-content', document.querySelector('.spanish-btn')); return false;">**Spanish**</a> and <a href="#" onclick="toggleLanguage('chinese-content', document.querySelector('.chinese-btn')); return false;">**Chinese**</a>), swimming 🏊 (I try to swim at least twice a week), and continuous self-improvement and acceleration of personal growth in expertise and research.
+Outside of research, I enjoy learning new languages 📚 (currently studying <a href="#" onclick="toggleLanguage('spanish-content', document.querySelector('.spanish-btn')); return false;">**Spanish**</a> and <a href="#" onclick="toggleLanguage('chinese-content', document.querySelector('.chinese-btn')); return false;">**Chinese**</a>), swimming 🏊 (been doing for a long time), and continuous self-improvement and acceleration of personal growth in expertise and research.
 
 <div class="language-toggle">
   <button class="toggle-btn spanish-btn" onclick="toggleLanguage('spanish-content', this)">🇪🇸 Ver en Español</button>
@@ -50,9 +50,9 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 <div id="korean-content" class="language-section korean-section" style="display: none;">
   <p>현재 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 전문연구요원으로 일하고 있습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
 
-  <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 효율적인 데이터 처리(e.g., zero-/few-shot learning, self-/semi-supervised learning, and active learning)을 통해서 현실 문제를 푸는 것에 관심이 있습니다. 그리고 대규모 언어 모델(LLM)과 멀티모달 대규모 언어 모델(MLLM)과 같은 대규모 AI 프레임워크를 향상시키고 보완하는 전문가 시스템을 개발하여 실제 현실 테스크, 문제를 푸는 시스템에 관심을 가지고 있습니다.</p>
+  <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 효율적인 데이터 처리(e.g., zero-/few-shot learning, self-/semi-supervised learning, and active learning)을 통해서 현실 문제를 푸는 것에 관심이 있습니다. 그리고 대규모 언어 모델(LLM)과 멀티모달 대규모 언어 모델(MLLM)과 같은 대규모 AI 프레임워크를 향상시키고 보완하는 전문가 시스템을 개발하여 실제 현실 테스크, 문제를 푸는 시스템에도 관심을 가지고 있습니다.</p>
 
-  <p>연구 외에도 언어를 배우는 것을 좋아하고 수영을 오랫동안 해왔습니다. 개인적인 성장을 이루는 데에도 큰 관심이 있습니다.</p>
+  <p>연구 외에도 새로운 언어 배우는 걸 정말 좋아하고 수영도 오래전부터 즐겨오고 있습니다! 개인적인 성장과 발전에도 항상 관심이 많습니다 🌱✨.</p>
 
   <p>감사합니다 🙇</p>
 </div>
