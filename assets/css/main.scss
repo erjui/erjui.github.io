@@ -138,8 +138,8 @@ h1:before, .anchor:before {
 }
 
 .spanish-section {
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    border-left: 4px solid #667eea;
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    border-left: 4px solid #dc3545;
     padding: 20px;
     margin: 15px 0;
     border-radius: 8px;
@@ -151,7 +151,53 @@ h1:before, .anchor:before {
     }
     
     a {
-        color: #667eea !important;
+        color: #dc3545 !important;
+        text-decoration: none;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.chinese-section {
+    background-color: #fffef0;
+    border-left: 6px solid #f8b62d;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    
+    p {
+        margin-bottom: 15px;
+        line-height: 1.6;
+    }
+    
+    a {
+        color: #7289da !important;
+        text-decoration: none;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.korean-section {
+    background: linear-gradient(135deg, #f8f9fa, #d0ebff);
+    border-left: 4px solid #228be6;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    
+    p {
+        margin-bottom: 15px;
+        line-height: 1.6;
+    }
+    
+    a {
+        color: #228be6 !important;
         text-decoration: none;
         
         &:hover {
