@@ -1,6 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Make sure the toggle function is available globally
   window.toggleLanguage = function(contentId, buttonElement) {
+    const selectedContent = document.getElementById(contentId);
+    const isCurrentlyVisible = selectedContent.style.display === 'block';
+    
     // Hide all language sections first
     const allLanguageSections = document.querySelectorAll('.language-section');
     allLanguageSections.forEach(section => {
@@ -11,16 +14,16 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.spanish-btn').innerHTML = '🇪🇸 Ver en Español';
     document.querySelector('.chinese-btn').innerHTML = '🇨🇳 查看中文版';
     
-    // Show the selected language section
-    const selectedContent = document.getElementById(contentId);
-    if (selectedContent.style.display === 'none' || selectedContent.style.display === '') {
+    // If the section was already visible, keep it hidden (toggle off)
+    // Otherwise show the selected section (toggle on)
+    if (!isCurrentlyVisible) {
       selectedContent.style.display = 'block';
       
-      // Update the button text to show close/hide option
+      // Update the button text
       if (contentId === 'spanish-content') {
-        buttonElement.innerHTML = '❌ Cerrar';
+        buttonElement.innerHTML = '🇺🇸 Hide Spanish';
       } else if (contentId === 'chinese-content') {
-        buttonElement.innerHTML = '❌ 关闭';
+        buttonElement.innerHTML = '🇺🇸 Hide Chinese';
       }
     }
   };
