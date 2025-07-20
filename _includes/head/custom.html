@@ -27,10 +27,12 @@
 .language-toggle {
     margin: 1em 0;
     text-align: left;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
 .toggle-btn {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -39,39 +41,55 @@
     font-size: 14px;
     font-weight: 500;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.spanish-btn {
+    background: linear-gradient(135deg, #FF512F 0%, #DD2476 100%);
+}
+
+.chinese-btn {
+    background: linear-gradient(135deg, #D4145A 0%, #FBB03B 100%);
 }
 
 .toggle-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
-    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    filter: brightness(1.1);
 }
 
 .toggle-btn:active {
     transform: translateY(0);
 }
 
-.spanish-section {
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    border-left: 4px solid #667eea;
+.language-section {
     padding: 20px;
     margin: 15px 0;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.spanish-section p {
+.spanish-section {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border-left: 4px solid #DD2476;
+}
+
+.chinese-section {
+    background: linear-gradient(135deg, #FFFDE4 0%, #FFE8D9 100%);
+    border-left: 4px solid #FBB03B;
+}
+
+.language-section p {
     margin-bottom: 15px;
     line-height: 1.6;
 }
 
-.spanish-section a {
+.language-section a {
     color: #667eea !important;
     text-decoration: none;
 }
 
-.spanish-section a:hover {
+.language-section a:hover {
     text-decoration: underline;
 }
 </style>
