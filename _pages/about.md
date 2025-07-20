@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include language_toggle.html %}
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -24,7 +26,7 @@ I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="colo
 Outside of research, I enjoy learning new languages 📚 (currently studying **Spanish** and **Chinese**), swimming 🏊 (I try to swim at least twice a week), and continuous self-improvement and acceleration of personal growth in expertise and research.
 
 <div class="language-toggle">
-  <button class="toggle-btn" onclick="toggleSpanish()">🇪🇸 Ver en Español</button>
+  <button class="toggle-btn" onclick="document.getElementById('spanish-content').style.display = document.getElementById('spanish-content').style.display === 'none' || document.getElementById('spanish-content').style.display === '' ? 'block' : 'none'; this.innerHTML = document.getElementById('spanish-content').style.display === 'none' ? '🇪🇸 Ver en Español' : '🇺🇸 View in English';">🇪🇸 Ver en Español</button>
 </div>
 
 <div id="spanish-content" class="spanish-section" style="display: none;">

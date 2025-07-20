@@ -1,9 +1,5 @@
-<script src="assets/js/main.min.js"></script>
-
-{% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
-
-<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Make sure the toggle function is available globally
   window.toggleSpanish = function() {
     const spanishContent = document.getElementById('spanish-content');
     const toggleBtn = document.querySelector('.toggle-btn');
@@ -16,4 +12,4 @@
       toggleBtn.innerHTML = '🇪🇸 Ver en Español';
     }
   };
-</script>
+}); 

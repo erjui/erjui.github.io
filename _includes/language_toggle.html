@@ -1,10 +1,5 @@
-<script src="assets/js/main.min.js"></script>
-
-{% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
-
 <script>
-  window.toggleSpanish = function() {
+  function toggleSpanish() {
     const spanishContent = document.getElementById('spanish-content');
     const toggleBtn = document.querySelector('.toggle-btn');
     
@@ -15,5 +10,5 @@
       spanishContent.style.display = 'none';
       toggleBtn.innerHTML = '🇪🇸 Ver en Español';
     }
-  };
-</script>
+  }
+</script> 
