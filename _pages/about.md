@@ -24,6 +24,8 @@ My primary research interests include:
 - Developing systems for vision tasks guided by human instructions using visual instruction tuning
 - Continuous self-improvement and acceleration of personal growth in expertise and research
 
+Outside of research, I enjoy learning new languages 📚 (currently studying Spanish and Chinese), swimming 🏊 (I try to swim at least twice a week).
+
 # 🔥 News
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
 
@@ -45,7 +47,7 @@ My primary research interests include:
 
 # 💻 Work Experience
 - *2024.05 - Present*, Research Scientist/Engineer (Military Substitution) at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>
-- *2024.02 - 2024.03*, Research Scientist/Engineer at Deepauto AI
-- *2020.09 - 2021.09*, Machine Learning Engineer at VoyagerX
-- *2019.03 - 2019.08*, Undergraduate Research Assistant at SGVR Lab, KAIST, Daejeon, South Korea. Prof: Sung-eui Yoon
-- *2017.06 - 2018.06*, Undergraduate Research Assistant at Computer Vision Lab, KAIST, Daejeon, South Korea. Prof: Hyunseung Yang
+- *2024.02 - 2024.03*, Research Scientist/Engineer at <a href="https://deepauto.ai/" style="color: #7289da; text-decoration: none;">Deepauto AI</a>
+- *2020.09 - 2021.09*, Machine Learning Engineer at <a href="https://www.voyagerx.com/" style="color: #7289da; text-decoration: none;">VoyagerX</a>
+- *2019.03 - 2019.08*, Undergraduate Research Assistant at <a href="https://sgvr.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">SGVR Lab</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://sgvr.kaist.ac.kr/~sungeui/" style="color: #7289da; text-decoration: none;">Sung-eui Yoon</a>
+- *2017.06 - 2018.06*, Undergraduate Research Assistant at <a href="http://mind.kaist.ac.kr" style="color: #7289da; text-decoration: none;">Computer Vision Lab</a>, KAIST, Daejeon, South Korea. Prof: Hyunseung Yang
