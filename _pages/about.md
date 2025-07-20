@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Research Scientist/Engineer at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>.
+I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me!
 
-My primary research interests include:
-- Utilizing foundation models to address diverse tasks across vision and language domains
-- Developing systems for vision tasks guided by human instructions using visual instruction tuning
-- Continuous self-improvement and acceleration of personal growth in expertise and research
+**My primary research interests** include developing systems that solve a variety of problems throughout efficient data handling, interacting with the world 
 
-Outside of research, I enjoy learning new languages 📚 (currently studying Spanish and Chinese), swimming 🏊 (I try to swim at least twice a week).
+Outside of research, I enjoy learning new languages 📚 (currently studying **Spanish** and **Chinese**), swimming 🏊 (I try to swim at least twice a week), and continuous self-improvement and acceleration of personal growth in expertise and research.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
@@ -48,6 +45,6 @@ Outside of research, I enjoy learning new languages 📚 (currently studying Spa
 # 💻 Work Experience
 - *2024.05 - Present*, Research Scientist/Engineer (Military Substitution) at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>
 - *2024.02 - 2024.03*, Research Scientist/Engineer at <a href="https://deepauto.ai/" style="color: #7289da; text-decoration: none;">Deepauto AI</a>
-- *2020.09 - 2021.09*, Machine Learning Engineer at <a href="https://www.voyagerx.com/" style="color: #7289da; text-decoration: none;">VoyagerX</a>
+- *2020.09 - 2021.09*, Research Scientist/Engineer at <a href="https://www.voyagerx.com/" style="color: #7289da; text-decoration: none;">VoyagerX</a>
 - *2019.03 - 2019.08*, Undergraduate Research Assistant at <a href="https://sgvr.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">SGVR Lab</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://sgvr.kaist.ac.kr/~sungeui/" style="color: #7289da; text-decoration: none;">Sung-eui Yoon</a>
 - *2017.06 - 2018.06*, Undergraduate Research Assistant at <a href="http://mind.kaist.ac.kr" style="color: #7289da; text-decoration: none;">Computer Vision Lab</a>, KAIST, Daejeon, South Korea. Prof: Hyunseung Yang
