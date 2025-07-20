@@ -28,6 +28,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 <div class="language-toggle">
   <button class="toggle-btn spanish-btn" onclick="toggleLanguage('spanish-content', this)">🇪🇸 Ver en Español</button>
   <button class="toggle-btn chinese-btn" onclick="toggleLanguage('chinese-content', this)">🇨🇳 查看中文版</button>
+  <button class="toggle-btn korean-btn" onclick="toggleLanguage('korean-content', this)">🇰🇷 한국어로 보기</button>
 </div>
 
 <div id="spanish-content" class="language-section spanish-section" style="display: none;">
@@ -44,6 +45,16 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
   <p><strong>我的主要研究兴趣</strong>包括解决现实世界中各个领域出现的重要问题。我对高效数据处理感兴趣（例如，少样本学习、自监督学习、半监督学习和主动学习范式）。我还热衷于开发能够增强和补充大型AI框架（如大型语言模型（LLMs）和多模态大型语言模型（MLLMs））的专家系统，使它们能够在专业任务上取得更好的性能。</p>
 
   <p>除了研究之外，我喜欢学习新语言📚（目前正在学习<strong>西班牙语</strong>和<strong>中文</strong>），游泳🏊（我尽量每周游泳至少两次），以及在专业知识和研究方面不断自我提升和加速个人成长。</p>
+</div>
+
+<div id="korean-content" class="language-section korean-section" style="display: none;">
+  <p>현재 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 전문연구요원으로 일하고 있습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
+
+  <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 효율적인 데이터 처리(e.g., zero-/few-shot learning, self-/semi-supervised learning, and active learning)을 통해서 현실 문제를 푸는 것에 관심이 있습니다. 그리고 대규모 언어 모델(LLM)과 멀티모달 대규모 언어 모델(MLLM)과 같은 대규모 AI 프레임워크를 향상시키고 보완하는 전문가 시스템을 개발하여 실제 현실 테스크, 문제를 푸는 시스템에 관심을 가지고 있습니다.</p>
+
+  <p>연구 외에도 언어를 배우는 것을 좋아하고 수영을 오랫동안 해왔습니다. 개인적인 성장을 이루는 데에도 큰 관심이 있습니다.</p>
+
+  <p>감사합니다 🙇</p>
 </div>
 
 # 🔥 News
