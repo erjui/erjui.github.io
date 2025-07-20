@@ -4,6 +4,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const selectedContent = document.getElementById(contentId);
     const isCurrentlyVisible = selectedContent.style.display === 'block';
     
+    // If the section is already visible, hide it and reset the button
+    if (isCurrentlyVisible) {
+      selectedContent.style.display = 'none';
+      if (contentId === 'spanish-content') {
+        buttonElement.innerHTML = '🇪🇸 Ver en Español';
+      } else if (contentId === 'chinese-content') {
+        buttonElement.innerHTML = '🇨🇳 查看中文版';
+      }
+      return;
+    }
+    
     // Hide all language sections first
     const allLanguageSections = document.querySelectorAll('.language-section');
     allLanguageSections.forEach(section => {
@@ -14,17 +25,14 @@ document.addEventListener('DOMContentLoaded', function() {
     document.querySelector('.spanish-btn').innerHTML = '🇪🇸 Ver en Español';
     document.querySelector('.chinese-btn').innerHTML = '🇨🇳 查看中文版';
     
-    // If the section was already visible, keep it hidden (toggle off)
-    // Otherwise show the selected section (toggle on)
-    if (!isCurrentlyVisible) {
-      selectedContent.style.display = 'block';
-      
-      // Update the button text
-      if (contentId === 'spanish-content') {
-        buttonElement.innerHTML = '🇺🇸 Hide Spanish';
-      } else if (contentId === 'chinese-content') {
-        buttonElement.innerHTML = '🇺🇸 Hide Chinese';
-      }
+    // Show the selected section
+    selectedContent.style.display = 'block';
+    
+    // Update button text to close/hide option
+    if (contentId === 'spanish-content') {
+      buttonElement.innerHTML = '❌ Cerrar';
+    } else if (contentId === 'chinese-content') {
+      buttonElement.innerHTML = '❌ 关闭';
     }
   };
 }); 
