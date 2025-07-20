@@ -23,6 +23,18 @@ I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="colo
 
 Outside of research, I enjoy learning new languages 📚 (currently studying **Spanish** and **Chinese**), swimming 🏊 (I try to swim at least twice a week), and continuous self-improvement and acceleration of personal growth in expertise and research.
 
+<div class="language-toggle">
+  <button class="toggle-btn" onclick="toggleSpanish()">🇪🇸 Ver en Español</button>
+</div>
+
+<div id="spanish-content" class="spanish-section" style="display: none;">
+  <p>Soy un <strong>Científico/Ingeniero de Investigación</strong> en <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. Obtuve mi Maestría en la Escuela de Posgrado de IA de KAIST, bajo la supervisión del Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. ¡Si estás interesado en colaborar conmigo en proyectos de investigación, por favor contáctame!</p>
+
+  <p><strong>Mis intereses principales de investigación</strong> incluyen resolver problemas importantes que ocurren en el mundo real a través de varios dominios. Me interesa el manejo eficiente de datos (por ejemplo, aprendizaje de pocos ejemplos, aprendizaje auto-supervisado, aprendizaje semi-supervisado, y paradigmas de aprendizaje activo). También me apasiona desarrollar sistemas expertos que mejoren y complementen marcos de IA a gran escala como los Modelos de Lenguaje Grande (LLMs) y los Modelos de Lenguaje Grande Multimodales (MLLMs), permitiéndoles lograr un mejor rendimiento en tareas especializadas.</p>
+
+  <p>Fuera de la investigación, disfruto aprender nuevos idiomas 📚 (actualmente estudiando <strong>español</strong> y <strong>chino</strong>), nadar 🏊 (trato de nadar al menos dos veces por semana), y la mejora continua personal y la aceleración del crecimiento personal en experiencia e investigación.</p>
+</div>
+
 # 🔥 News
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
 

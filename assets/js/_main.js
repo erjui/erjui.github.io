@@ -95,4 +95,18 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // Language toggle function
+  window.toggleSpanish = function() {
+    const spanishContent = document.getElementById('spanish-content');
+    const toggleBtn = document.querySelector('.toggle-btn');
+    
+    if (spanishContent.style.display === 'none' || spanishContent.style.display === '') {
+      spanishContent.style.display = 'block';
+      toggleBtn.innerHTML = '🇺🇸 View in English';
+    } else {
+      spanishContent.style.display = 'none';
+      toggleBtn.innerHTML = '🇪🇸 Ver en Español';
+    }
+  };
+
 });
