@@ -19,7 +19,7 @@ redirect_from:
 
 I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me!
 
-**My primary research interests** include developing systems that solve a variety of problems throughout efficient data handling, interacting with the world 
+**My primary research interests** include solving important problems that occur in the real world across various domains. I interested in efficient data handling (e.g., few-shot learning, self-supervised learning, semi-supervised learning, and active learning paradigms). I'm also passionate about developing expert systems that enhance and complement large-scale AI frameworks such as Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), enabling them to achieve better performance on specialized tasks.
 
 Outside of research, I enjoy learning new languages 📚 (currently studying **Spanish** and **Chinese**), swimming 🏊 (I try to swim at least twice a week), and continuous self-improvement and acceleration of personal growth in expertise and research.
 
