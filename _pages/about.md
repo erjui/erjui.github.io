@@ -62,14 +62,19 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 
 # 📝 Publications 
 
-- <font size="3">Simple Few-shot Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization</font>
-[[paper]](https://arxiv.org/abs/2505.07675v1) [[github]](https://github.com/erjui/DHO)  
-**Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Sung Ju Hwang  
+- <font size="3">Automated Structured Radiology Report Generation with Rich Clinical Context</font>
+[[paper]](https://arxiv.org/abs/2510.00428) [[project page]](https://huggingface.co/papers/2510.00428) [[github]](https://github.com/vuno/contextualized-srrg)  
+**Seongjae Kang**, Dong Bok Lee, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo  
 <span style="color:purple">Under Review</span>
 
 - <font size="3">PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models</font>
-[[paper]](https://arxiv.org/abs/2505.07675v1) [[github]](https://github.com/erjui/PCoreSet)  
+[[paper]](https://arxiv.org/abs/2506.00910) [[project page]](https://huggingface.co/papers/2506.00910)  
 **Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Dongseop Kim, Sung Ju Hwang  
+<span style="color:purple">Under Review</span>
+
+- <font size="3">Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization</font>
+[[paper]](https://arxiv.org/abs/2505.07675) [[project page]](https://huggingface.co/papers/2505.07675)  
+**Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Sung Ju Hwang  
 <span style="color:purple">Under Review</span>
 
 # 📖 Education
