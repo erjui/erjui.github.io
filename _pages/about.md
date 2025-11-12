@@ -91,5 +91,8 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 - *2017.06 - 2018.06*, Undergraduate Research Assistant at <a href="http://mind.kaist.ac.kr" style="color: #7289da; text-decoration: none;">Computer Vision Lab</a>, KAIST, Daejeon, South Korea. Prof: Hyunseung Yang
 
 # 🚀 Personal Projects
+- **YouTube Multi-Subtitle for Chinese Learning** [[Demo]](https://drive.google.com/file/d/1WmT2IQ4T5gLBT0N3Sk-45IiQUS7ltTe3/view?usp=sharing)  
+A Chrome extension that displays three subtitle tracks simultaneously (English, Chinese characters, and Pinyin) to enhance Chinese language learning through YouTube videos. The extension automatically converts Chinese characters to Pinyin in real-time and supports loading subtitles from multiple sources including machine translation, replacing YouTube's default subtitle with a custom overlay that provides all necessary linguistic information in one place.
+
 - **Easy - Expense Report Automation Chrome Extension** [[Chrome Web Store]](https://chromewebstore.google.com/detail/easy/mbmlphiomneaknjpepfccckfilofplhg) [[PDF]](https://drive.google.com/file/d/1GAv7uln8UF5-t-IVx6wlKW0111Zs9mjj/view?usp=sharing) [[PPT]](https://docs.google.com/presentation/d/194w5Yg0nA6T492n19CPpbtq_OuuKHC08u1It6EScL1A/edit?usp=sharing)  
 A Chrome extension that automates the monthly expense report (지출결의) process for company employees. This tool reduces what typically takes 1-2 hours of manual work each month into just a few minutes with minimal effort, significantly improving productivity and reducing repetitive administrative tasks.
