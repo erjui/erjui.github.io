@@ -65,29 +65,29 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 
 # 📝 Selected Publications
 
-- <font size="3">Automated Structured Radiology Report Generation with Rich Clinical Context</font><br>
-[[paper]](https://arxiv.org/abs/2510.00428) [[project page]](https://huggingface.co/papers/2510.00428) [[github]](https://github.com/vuno/contextualized-srrg)<br>
-**Seongjae Kang<sup>*</sup>**, Dong Bok Lee<sup>*</sup>, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo (<sup>*</sup> equal contribution)</span><br>
+- <font size="3">Automated Structured Radiology Report Generation with Rich Clinical Context</font>
+[[paper]](https://arxiv.org/abs/2510.00428) [[project page]](https://huggingface.co/papers/2510.00428) [[github]](https://github.com/vuno/contextualized-srrg)
+**Seongjae Kang<sup>*</sup>**, Dong Bok Lee<sup>*</sup>, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo (<sup>*</sup> equal contribution)</span>
 <span style="color:purple">Under Review</span>
 
-- <font size="3">PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models</font><br>
-[[paper]](https://arxiv.org/abs/2506.00910) [[project page]](https://huggingface.co/papers/2506.00910) [[github]](https://github.com/erjui/PCoreSet)<br>
-**Seongjae Kang<sup>*</sup>**, Dong Bok Lee<sup>*</sup>, Hyungjoon Jang, Dongseop Kim, Sung Ju Hwang (<sup>*</sup> equal contribution)</span><br>
+- <font size="3">PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models</font>
+[[paper]](https://arxiv.org/abs/2506.00910) [[project page]](https://huggingface.co/papers/2506.00910) [[github]](https://github.com/erjui/PCoreSet)
+**Seongjae Kang<sup>*</sup>**, Dong Bok Lee<sup>*</sup>, Hyungjoon Jang, Dongseop Kim, Sung Ju Hwang (<sup>*</sup> equal contribution)</span>
 <span style="color:purple">Under Review</span>
 
-- <font size="3">Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization</font><br>
-[[paper]](https://arxiv.org/abs/2505.07675) [[project page]](https://huggingface.co/papers/2505.07675) [[github]](https://github.com/erjui/DHO)<br>
-**Seongjae Kang**<sup>*</sup>, Dong Bok Lee<sup>*</sup>, Hyungjoon Jang, Sung Ju Hwang (<sup>*</sup> equal contribution)</span><br>
+- <font size="3">Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization</font>
+[[paper]](https://arxiv.org/abs/2505.07675) [[project page]](https://huggingface.co/papers/2505.07675) [[github]](https://github.com/erjui/DHO)
+**Seongjae Kang**<sup>*</sup>, Dong Bok Lee<sup>*</sup>, Hyungjoon Jang, Sung Ju Hwang (<sup>*</sup> equal contribution)</span>
 <span style="color:purple">Under Review</span>
 
-- <font size="3">CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents</font><br>
-[[paper]](https://arxiv.org/abs/2511.20216) [[github]](https://github.com/worv-ai/CostNav)<br>
-Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..., Youngjae Yu, Yunsung Lee<br>
+- <font size="3">CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents</font>
+[[paper]](https://arxiv.org/abs/2511.20216) [[github]](https://github.com/worv-ai/CostNav)
+Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..., Youngjae Yu, Yunsung Lee
 <span style="color:purple">Under Review</span>
 
-- <font size="3">Frequency-Balanced Retinal Representation Learning with Mutual Information Regularization</font><br>
-[[paper]](https://openreview.net/pdf?id=K5tcKEQaUr) [[github]](https://github.com/vuno/RetMAE)<br>
-Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyun Park<br>
+- <font size="3">Frequency-Balanced Retinal Representation Learning with Mutual Information Regularization</font>
+[[paper]](https://openreview.net/pdf?id=K5tcKEQaUr) [[github]](https://github.com/vuno/RetMAE)
+Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyun Park
 <span style="color:purple">ICLR 2026</span>
 
 # 📖 Education
