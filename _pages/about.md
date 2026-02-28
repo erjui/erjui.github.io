@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -60,24 +60,35 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 One paper accepted at <strong>ICLR 2026</strong>!
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 - <font size="3">Automated Structured Radiology Report Generation with Rich Clinical Context</font>
-[[paper]](https://arxiv.org/abs/2510.00428) [[project page]](https://huggingface.co/papers/2510.00428) [[github]](https://github.com/vuno/contextualized-srrg)  
-**Seongjae Kang**, Dong Bok Lee, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo  
+[[paper]](https://arxiv.org/abs/2510.00428) [[project page]](https://huggingface.co/papers/2510.00428) [[github]](https://github.com/vuno/contextualized-srrg)
+**Seongjae Kang**, Dong Bok Lee, Juho Jung, Dongseop Kim, Won Hwa Kim, Sunghoon Joo
 <span style="color:purple">Under Review</span>
 
 - <font size="3">PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models</font>
-[[paper]](https://arxiv.org/abs/2506.00910) [[project page]](https://huggingface.co/papers/2506.00910) [[github]](https://github.com/erjui/PCoreSet)  
-**Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Dongseop Kim, Sung Ju Hwang  
+[[paper]](https://arxiv.org/abs/2506.00910) [[project page]](https://huggingface.co/papers/2506.00910) [[github]](https://github.com/erjui/PCoreSet)
+**Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Dongseop Kim, Sung Ju Hwang
 <span style="color:purple">Under Review</span>
 
 - <font size="3">Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization</font>
-[[paper]](https://arxiv.org/abs/2505.07675) [[project page]](https://huggingface.co/papers/2505.07675) [[github]](https://github.com/erjui/DHO)  
-**Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Sung Ju Hwang  
+[[paper]](https://arxiv.org/abs/2505.07675) [[project page]](https://huggingface.co/papers/2505.07675) [[github]](https://github.com/erjui/DHO)
+**Seongjae Kang**, Dong Bok Lee, Hyungjoon Jang, Sung Ju Hwang
 <span style="color:purple">Under Review</span>
+
+- <font size="3">CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents</font>
+[[paper]](https://arxiv.org/abs/2511.20216) [[github]](https://github.com/worv-ai/CostNav)
+Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..., Youngjae Yu, Yunsung Lee
+<span style="color:purple">Preprint</span>
+
+- <font size="3">Frequency-Balanced Retinal Representation Learning with Mutual Information Regularization</font>
+[[github]](https://github.com/vuno/RetMAE)
+Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyun Park
+<span style="color:orange">ICLR 2026</span>
 
 # 📖 Education
 - *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>
@@ -90,9 +101,9 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 - *2019.03 - 2019.08*, Undergraduate Research Assistant at <a href="https://sgvr.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">SGVR Lab</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://sgvr.kaist.ac.kr/~sungeui/" style="color: #7289da; text-decoration: none;">Sung-eui Yoon</a>
 - *2017.06 - 2018.06*, Undergraduate Research Assistant at <a href="http://mind.kaist.ac.kr" style="color: #7289da; text-decoration: none;">Computer Vision Lab</a>, KAIST, Daejeon, South Korea. Prof: Hyunseung Yang
 
-# 🚀 Personal Projects
-- **YouTube Multi-Subtitle for Chinese Learning** [[Demo]](https://drive.google.com/file/d/1WmT2IQ4T5gLBT0N3Sk-45IiQUS7ltTe3/view?usp=sharing)  
+# 🚀 Selected Projects
+- **YouTube Multi-Subtitle for Chinese Learning** [[Demo]](https://drive.google.com/file/d/1WmT2IQ4T5gLBT0N3Sk-45IiQUS7ltTe3/view?usp=sharing)
 A Chrome extension that displays three subtitle tracks simultaneously (English, Chinese characters, and Pinyin) to enhance Chinese language learning through YouTube videos. The extension automatically converts Chinese characters to Pinyin in real-time and supports loading subtitles from multiple sources including machine translation, replacing YouTube's default subtitle with a custom overlay that provides all necessary linguistic information in one place.
 
-- **Easy - Expense Report Automation Chrome Extension** [[Chrome Web Store]](https://chromewebstore.google.com/detail/easy/mbmlphiomneaknjpepfccckfilofplhg) [[PDF]](https://drive.google.com/file/d/1GAv7uln8UF5-t-IVx6wlKW0111Zs9mjj/view?usp=sharing) [[PPT]](https://docs.google.com/presentation/d/194w5Yg0nA6T492n19CPpbtq_OuuKHC08u1It6EScL1A/edit?usp=sharing)  
+- **Easy - Expense Report Automation Chrome Extension** [[Chrome Web Store]](https://chromewebstore.google.com/detail/easy/mbmlphiomneaknjpepfccckfilofplhg) [[PDF]](https://drive.google.com/file/d/1GAv7uln8UF5-t-IVx6wlKW0111Zs9mjj/view?usp=sharing) [[PPT]](https://docs.google.com/presentation/d/194w5Yg0nA6T492n19CPpbtq_OuuKHC08u1It6EScL1A/edit?usp=sharing)
 A Chrome extension that automates the monthly expense report (지출결의) process for company employees. This tool reduces what typically takes 1-2 hours of manual work each month into just a few minutes with minimal effort, significantly improving productivity and reducing repetitive administrative tasks.
