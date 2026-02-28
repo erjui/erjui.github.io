@@ -88,7 +88,7 @@ Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..
 - <font size="3">Frequency-Balanced Retinal Representation Learning with Mutual Information Regularization</font>
 [[github]](https://github.com/vuno/RetMAE)
 Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyun Park
-<span style="color:orange">ICLR 2026</span>
+<span style="color:purple">ICLR 2026</span>
 
 # 📖 Education
 - *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>
