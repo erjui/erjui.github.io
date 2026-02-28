@@ -83,7 +83,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 - <font size="3">CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents</font><br>
 [[paper]](https://arxiv.org/abs/2511.20216) [[github]](https://github.com/worv-ai/CostNav)<br>
 Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..., Youngjae Yu, Yunsung Lee<br>
-<span style="color:purple">Preprint</span>
+<span style="color:purple">Under Review</span>
 
 - <font size="3">Frequency-Balanced Retinal Representation Learning with Mutual Information Regularization</font><br>
 [[paper]](https://openreview.net/pdf?id=K5tcKEQaUr) [[github]](https://github.com/vuno/RetMAE)<br>
