@@ -60,6 +60,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 <strong>CostNav</strong> accepted at the <strong>ScaleBot Workshop @ CVPR 2026</strong>!
 - *2026.01*: &nbsp;🎉 One paper accepted at <strong>ICLR 2026</strong>!
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
 
@@ -83,7 +84,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 - <font size="3">CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents</font>
 [[paper]](https://arxiv.org/abs/2511.20216) [[project page]](https://worv-ai.github.io/costnav/) [[blog]](https://worv.ghost.io/costnav-2/) [[github]](https://github.com/worv-ai/CostNav)  \
 Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..., Youngjae Yu, Yunsung Lee  \
-<span style="color:purple">Under Review</span>
+<span style="color:purple">ScaleBot @ CVPR 2026</span>
 
 - <font size="3">Frequency-Balanced Retinal Representation Learning with Mutual Information Regularization</font>
 [[paper]](https://openreview.net/pdf?id=K5tcKEQaUr) [[github]](https://github.com/vuno/RetMAE)  \
