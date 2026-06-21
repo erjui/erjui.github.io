@@ -60,8 +60,8 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 <strong>Best-of-N TTS Evaluation is Confounded by ASR Family Alignment</strong> accepted at the <strong>ML for Audio Workshop @ ICML 2026</strong>!
-- *2026.05*: &nbsp;🎉 <strong>CostNav</strong> accepted at the <strong>ScaleBot Workshop @ CVPR 2026</strong>!
+- *2026.06*: &nbsp;🎉 One paper accepted at <strong>ML for Audio Workshop @ ICML 2026</strong>!
+- *2026.05*: &nbsp;🎉 One paper accepted at <strong>ScaleBot Workshop @ CVPR 2026</strong>!
 - *2026.01*: &nbsp;🎉 One paper accepted at <strong>ICLR 2026</strong>!
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
 
@@ -92,7 +92,7 @@ Haebin Seong, Sungmin Kim, Yongjun Cho, Myunchul Joe, ..., **Seongjae Kang**, ..
 Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyun Park  \
 <span style="color:purple">ICLR 2026</span>
 
-- <font size="3">Best-of-N TTS Evaluation is Confounded by ASR Family Alignment</font>  \
+- <font size="3">Best-of-N TTS Evaluation is Confounded by ASR Family Alignment</font>
 Taehyung Yu, **Seongjae Kang**  \
 <span style="color:purple">ML for Audio Workshop @ ICML 2026</span>
 
