@@ -127,3 +127,8 @@ A Chrome extension that displays three subtitle tracks simultaneously (English, 
 - **Easy - Expense Report Automation Chrome Extension**  \
 [[Chrome Web Store]](https://chromewebstore.google.com/detail/easy/mbmlphiomneaknjpepfccckfilofplhg) [[PDF]](https://drive.google.com/file/d/1GAv7uln8UF5-t-IVx6wlKW0111Zs9mjj/view?usp=sharing) [[PPT]](https://docs.google.com/presentation/d/194w5Yg0nA6T492n19CPpbtq_OuuKHC08u1It6EScL1A/edit?usp=sharing)  \
 A Chrome extension that automates the monthly expense report (지출결의) process for company employees. This tool reduces what typically takes 1-2 hours of manual work each month into just a few minutes with minimal effort, significantly improving productivity and reducing repetitive administrative tasks.
+
+# 🌟 Open Source Contributions
+- **claude-hud**  \
+[[PR #599]](https://github.com/jarrodwatts/claude-hud/pull/599)  \
+Contributed to <a href="https://github.com/jarrodwatts/claude-hud" style="color: #7289da; text-decoration: none;">claude-hud</a>, a status-line HUD for Claude Code. Reworked the usage display so external balance information and stdin-provided rate-limit windows render together as complementary segments instead of being mutually exclusive, while keeping the change backward-compatible for users without an external snapshot configured. (Merged)
