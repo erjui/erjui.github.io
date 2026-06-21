@@ -116,6 +116,10 @@ Y. Hwang, S. Ham, Y. Jun, J. Kang, S. Cho, **S. Kang**, S. H. Lee  \
 - *2026*, Reviewer, <a href="https://icml.cc/" style="color: #7289da; text-decoration: none;">ICML 2026</a> — recognized as a <strong>Gold Reviewer</strong> (top reviewer recognition)
 
 # 🚀 Selected Projects
+- **ScreenTranslate — On-Device Screen Translation for macOS**  \
+[[Website]](https://screentranslate.filient.ai/) [[GitHub]](https://github.com/hcmhcs/screenTranslate) [[Product Hunt]](https://www.producthunt.com/products/screentranslate)  \
+**Problem.** Translating text that lives on screen — inside images, PDFs, apps, or videos — usually means screenshotting, switching to a browser, copy-pasting, and breaking focus, and cloud-based tools raise privacy concerns by shipping screen content to remote servers. **Method.** A native macOS menu-bar app that fuses screen capture, on-device OCR, and Apple's on-device Translation framework into a single shortcut-driven motion, with optional bring-your-own-key cloud engines (DeepL, Google, Azure) for broader language coverage. **Solution.** One shortcut triggers area selection → OCR → translation in place; direct text-selection and quick-type modes are also supported. It runs fully offline and private by default across 20 languages, and is free and open source (GPL-3.0).
+
 - **YouTube Multi-Subtitle for Chinese Learning**  \
 [[Demo]](https://drive.google.com/file/d/1WmT2IQ4T5gLBT0N3Sk-45IiQUS7ltTe3/view?usp=sharing)  \
 A Chrome extension that displays three subtitle tracks simultaneously (English, Chinese characters, and Pinyin) to enhance Chinese language learning through YouTube videos. The extension automatically converts Chinese characters to Pinyin in real-time and supports loading subtitles from multiple sources including machine translation, replacing YouTube's default subtitle with a custom overlay that provides all necessary linguistic information in one place.
