@@ -112,6 +112,9 @@ Y. Hwang, S. Ham, Y. Jun, J. Kang, S. Cho, **S. Kang**, S. H. Lee  \
 - *2019.03 - 2019.08*, Undergraduate Research Assistant at <a href="https://sgvr.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">SGVR Lab</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://sgvr.kaist.ac.kr/~sungeui/" style="color: #7289da; text-decoration: none;">Sung-eui Yoon</a>
 - *2017.06 - 2018.06*, Undergraduate Research Assistant at <a href="http://mind.kaist.ac.kr" style="color: #7289da; text-decoration: none;">Computer Vision Lab</a>, KAIST, Daejeon, South Korea. Prof: Hyunseung Yang
 
+# 🎓 Academic Service
+- *2026*, Reviewer, <a href="https://icml.cc/" style="color: #7289da; text-decoration: none;">ICML 2026</a> — recognized as a <strong>Gold Reviewer</strong> (top reviewer recognition)
+
 # 🚀 Selected Projects
 - **YouTube Multi-Subtitle for Chinese Learning**  \
 [[Demo]](https://drive.google.com/file/d/1WmT2IQ4T5gLBT0N3Sk-45IiQUS7ltTe3/view?usp=sharing)  \
