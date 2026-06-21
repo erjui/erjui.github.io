@@ -96,6 +96,11 @@ Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyu
 Taehyung Yu, **Seongjae Kang**  \
 <span style="color:purple">ML for Audio Workshop @ ICML 2026</span>
 
+- <font size="3">High-Suspicion Pulmonary Nodule Detection on Chest Radiographs: Single-Center Retrospective Performance and Additional Detection Analysis of an AI System</font>
+[[poster]](https://dx.doi.org/10.26044/ecr2026/C-19405)  \
+Y. Hwang, S. Ham, Y. Jun, J. Kang, S. Cho, **S. Kang**, S. H. Lee  \
+<span style="color:purple">ECR 2026 (Scientific Exhibit)</span>
+
 # 📖 Education
 - *2022.02 - 2024.02*, M.S. in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>
 - *2016.02 - 2022.02*, B.S. in Computer Science (major) and Electrical Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>
