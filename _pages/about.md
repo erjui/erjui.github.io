@@ -24,6 +24,7 @@ I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="colo
 **My primary research interests** include developing innovative AI solutions that address real-world challenges across diverse domains, with a commitment to making a meaningful impact on society by bridging the gap between AI and people through both research and engineering. My current interests involve:
 - **Training task-specific AI models**: Leveraging the growing capabilities of foundation models in data-efficient settings, utilizing techniques such as knowledge distillation (KD), few-shot learning, self-supervised and semi-supervised learning, and active learning (AL).
 - **Building automated systems**: Developing systems that genuinely automate and assist human workflows by integrating AI models such as large language models (LLMs), multimodal large language models (MLLMs) through instruction tuning, reinforcement learning (RL), and agentic AI frameworks.
+- **Ensuring trust and safety of large models**: Making black-box large models behave as intended so that they genuinely benefit people, leveraging techniques such as verification, policy adherence, and behavior steering, with a particular focus on agents acting in real-world environments such as customer service, web, and embodied AI agents.
 
 Outside of research, I enjoy learning new languages 📚 (currently studying <a href="#" onclick="toggleLanguage('spanish-content', document.querySelector('.spanish-btn')); return false;">**Spanish**</a> and <a href="#" onclick="toggleLanguage('chinese-content', document.querySelector('.chinese-btn')); return false;">**Chinese**</a>), swimming 🏊 (been doing for a long time), and continuous self-improvement and acceleration of personal growth in expertise and research.
 
@@ -36,7 +37,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 <div id="spanish-content" class="language-section spanish-section" style="display: none;">
   <p>Soy un <strong>Científico/Ingeniero de Investigación</strong> en <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. Obtuve mi Maestría en la Escuela de Posgrado de IA de KAIST, bajo la supervisión del Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. ¡Si estás interesado en colaborar conmigo en proyectos de investigación, por favor contáctame!</p>
 
-  <p><strong>Mis intereses principales de investigación</strong> incluyen resolver problemas importantes que ocurren en el mundo real a través de varios dominios. Me interesa el manejo eficiente de datos (por ejemplo, aprendizaje de pocos ejemplos, aprendizaje auto-supervisado, aprendizaje semi-supervisado, y paradigmas de aprendizaje activo). También me apasiona desarrollar sistemas expertos que mejoren y complementen marcos de IA a gran escala como los Modelos de Lenguaje Grande (LLMs) y los Modelos de Lenguaje Grande Multimodales (MLLMs), permitiéndoles lograr un mejor rendimiento en tareas especializadas.</p>
+  <p><strong>Mis intereses principales de investigación</strong> incluyen desarrollar soluciones innovadoras de IA que aborden desafíos del mundo real en diversos dominios. Me interesa entrenar modelos de IA específicos para tareas en entornos eficientes en datos (por ejemplo, destilación de conocimiento, aprendizaje de pocos ejemplos, aprendizaje auto-/semi-supervisado y aprendizaje activo), así como construir sistemas automatizados que realmente asistan los flujos de trabajo humanos integrando Modelos de Lenguaje Grande (LLMs), Modelos de Lenguaje Grande Multimodales (MLLMs) y marcos de IA agéntica. También me interesa la confianza y la seguridad de los modelos grandes: hacer que los modelos de caja negra se comporten como pretendemos — mediante verificación, adherencia a políticas y dirección de su comportamiento — para que beneficien genuinamente a las personas, con especial atención a agentes que actúan en entornos reales, como agentes de atención al cliente, web e IA encarnada.</p>
 
   <p>Fuera de la investigación, disfruto aprender nuevos idiomas 📚 (actualmente estudiando <strong>español</strong> y <strong>chino</strong>), nadar 🏊 (trato de nadar al menos dos veces por semana), y la mejora continua personal y la aceleración del crecimiento personal en experiencia e investigación.</p>
 </div>
@@ -44,7 +45,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 <div id="chinese-content" class="language-section chinese-section" style="display: none;">
   <p>我是<a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>的<strong>研究科学家/工程师</strong>。我在KAIST人工智能研究生院获得了硕士学位，师从<a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>教授。如果您有兴趣与我在研究项目上合作，请随时联系我！</p>
 
-  <p><strong>我的主要研究兴趣</strong>包括解决现实世界中各个领域出现的重要问题。我对高效数据处理感兴趣（例如，少样本学习、自监督学习、半监督学习和主动学习范式）。我还热衷于开发能够增强和补充大型AI框架（如大型语言模型（LLMs）和多模态大型语言模型（MLLMs））的专家系统，使它们能够在专业任务上取得更好的性能。</p>
+  <p><strong>我的主要研究兴趣</strong>包括开发创新的AI解决方案，以应对各个领域的现实挑战。我关注在数据高效的场景下训练任务专用的AI模型（例如知识蒸馏、少样本学习、自监督/半监督学习和主动学习），以及通过整合大型语言模型（LLMs）、多模态大型语言模型（MLLMs）和智能体AI框架，构建真正能自动化并辅助人类工作流程的系统。此外，我也关注大模型的可信与安全：通过验证、策略遵循和行为引导，让黑盒大模型按照我们的意图行事，从而真正造福人类，尤其是在客服、网页和具身AI等真实环境中行动的智能体。</p>
 
   <p>除了研究之外，我喜欢学习新语言📚（目前正在学习<strong>西班牙语</strong>和<strong>中文</strong>），游泳🏊（我尽量每周游泳至少两次），以及在专业知识和研究方面不断自我提升和加速个人成长。</p>
 </div>
@@ -52,7 +53,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 <div id="korean-content" class="language-section korean-section" style="display: none;">
   <p>현재 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 전문연구요원으로 일하고 있습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
 
-  <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 효율적인 데이터 처리(e.g., zero-/few-shot learning, self-/semi-supervised learning, and active learning)을 통해서 현실 문제를 푸는 것에 관심이 있습니다. 그리고 대규모 언어 모델(LLM)과 멀티모달 대규모 언어 모델(MLLM)과 같은 대규모 AI 프레임워크를 향상시키고 보완하는 전문가 시스템을 개발하여 실제 현실 테스크, 문제를 푸는 시스템에도 관심을 가지고 있습니다.</p>
+  <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 데이터 효율적인 환경에서 태스크 특화 AI 모델을 학습하는 것(e.g., knowledge distillation, few-shot learning, self-/semi-supervised learning, active learning)과, 대규모 언어 모델(LLM), 멀티모달 대규모 언어 모델(MLLM), 에이전틱 AI 프레임워크를 활용해 사람의 업무를 실제로 자동화하고 보조하는 시스템을 만드는 것에 관심이 있습니다. 또한 블랙박스 대규모 모델이 우리가 의도한 대로 동작하도록 만드는 신뢰성과 안전성(trust & safety) 연구에도 관심이 있습니다. 검증(verification), 정책 준수(policy adherence), 행동 제어(behavior steering) 등을 통해 대규모 모델이 사람에게 진정으로 도움이 되도록 하는 것이며, 특히 고객 상담, 웹, 임바디드 AI처럼 실제 환경에서 동작하는 에이전트의 안전성에 관심이 있습니다.</p>
 
   <p>연구 외에도 새로운 언어 배우는 걸 정말 좋아하고 수영도 오래전부터 즐겨오고 있습니다! 개인적인 성장과 발전에도 항상 관심이 많습니다 🌱✨.</p>
 
@@ -66,6 +67,11 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 - *2025.07*: &nbsp;🎉 Renewed personal website with latest information
 
 # 📝 Selected Publications
+
+- <font size="3">PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents</font>
+[[paper]](https://arxiv.org/abs/2606.29225) [[project page]](https://huggingface.co/papers/2606.29225)  \
+**Seongjae Kang**, Taehyung Yu, Sung Ju Hwang  \
+<span style="color:purple">Under Review</span>
 
 - <font size="3">Automated Structured Radiology Report Generation with Rich Clinical Context</font>
 [[paper]](https://arxiv.org/abs/2510.00428) [[project page]](https://huggingface.co/papers/2510.00428) [[github]](https://github.com/vuno/contextualized-srrg)  \
