@@ -51,7 +51,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 <div id="korean-content" class="language-section korean-section" style="display: none;">
-  <p>현재 <a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a> (MG AI)에서 머신러닝 엔지니어(전문연구요원)로 일하고 있습니다. 이전에는 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 일했습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
+  <p>현재 <a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a> (MG AI)에서 머신러닝 엔지니어(전문연구요원)로 일하고 있습니다. 이전에는 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 전문연구요원으로 일했습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
 
   <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 데이터 효율적인 환경에서 태스크 특화 AI 모델을 학습하는 것(e.g., knowledge distillation, few-shot learning, self-/semi-supervised learning, active learning)과, 대규모 언어 모델(LLM), 멀티모달 대규모 언어 모델(MLLM), 에이전틱 AI 프레임워크를 활용해 사람의 업무를 실제로 자동화하고 보조하는 시스템을 만드는 것에 관심이 있습니다. 또한 블랙박스 대규모 모델이 우리가 의도한 대로 동작하도록 만드는 신뢰성과 안전성(trust & safety) 연구에도 관심이 있습니다. 검증(verification), 정책 준수(policy adherence), 행동 제어(behavior steering) 등을 통해 대규모 모델이 사람에게 진정으로 도움이 되도록 하는 것이며, 특히 고객 상담, 웹, 임바디드 AI처럼 실제 환경에서 동작하는 에이전트의 안전성에 관심이 있습니다.</p>
 
