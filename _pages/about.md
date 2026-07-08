@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Research Scientist/Engineer** at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="/assets/cv.pdf" style="color: #7289da; text-decoration: none;">CV (Curriculum Vitae)</a>.
+I am a **Machine Learning Engineer** at <a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a> (MG AI). Previously, I was a Research Scientist/Engineer at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. I obtained my Master's from the Graduate School of AI at KAIST, under the supervision of Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="/assets/cv.pdf" style="color: #7289da; text-decoration: none;">CV (Curriculum Vitae)</a>.
 
 **My primary research interests** include developing innovative AI solutions that address real-world challenges across diverse domains, with a commitment to making a meaningful impact on society by bridging the gap between AI and people through both research and engineering. My current interests involve:
 - **Training task-specific AI models**: Leveraging the growing capabilities of foundation models in data-efficient settings, utilizing techniques such as knowledge distillation (KD), few-shot learning, self-supervised and semi-supervised learning, and active learning (AL).
@@ -35,7 +35,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 <div id="spanish-content" class="language-section spanish-section" style="display: none;">
-  <p>Soy un <strong>Científico/Ingeniero de Investigación</strong> en <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. Obtuve mi Maestría en la Escuela de Posgrado de IA de KAIST, bajo la supervisión del Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. ¡Si estás interesado en colaborar conmigo en proyectos de investigación, por favor contáctame!</p>
+  <p>Soy un <strong>Ingeniero de Aprendizaje Automático</strong> en <a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a> (MG AI). Anteriormente fui Científico/Ingeniero de Investigación en <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>. Obtuve mi Maestría en la Escuela de Posgrado de IA de KAIST, bajo la supervisión del Prof. <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>. ¡Si estás interesado en colaborar conmigo en proyectos de investigación, por favor contáctame!</p>
 
   <p><strong>Mis intereses principales de investigación</strong> incluyen desarrollar soluciones innovadoras de IA que aborden desafíos del mundo real en diversos dominios. Me interesa entrenar modelos de IA específicos para tareas en entornos eficientes en datos (por ejemplo, destilación de conocimiento, aprendizaje de pocos ejemplos, aprendizaje auto-/semi-supervisado y aprendizaje activo), así como construir sistemas automatizados que realmente asistan los flujos de trabajo humanos integrando Modelos de Lenguaje Grande (LLMs), Modelos de Lenguaje Grande Multimodales (MLLMs) y marcos de IA agéntica. También me interesa la confianza y la seguridad de los modelos grandes: hacer que los modelos de caja negra se comporten como pretendemos — mediante verificación, adherencia a políticas y dirección de su comportamiento — para que beneficien genuinamente a las personas, con especial atención a agentes que actúan en entornos reales, como agentes de atención al cliente, web e IA encarnada.</p>
 
@@ -43,7 +43,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 <div id="chinese-content" class="language-section chinese-section" style="display: none;">
-  <p>我是<a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>的<strong>研究科学家/工程师</strong>。我在KAIST人工智能研究生院获得了硕士学位，师从<a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>教授。如果您有兴趣与我在研究项目上合作，请随时联系我！</p>
+  <p>我是<a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a>（MG AI）的<strong>机器学习工程师</strong>，此前曾在<a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>担任研究科学家/工程师。我在KAIST人工智能研究生院获得了硕士学位，师从<a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">Sung Ju Hwang</a>教授。如果您有兴趣与我在研究项目上合作，请随时联系我！</p>
 
   <p><strong>我的主要研究兴趣</strong>包括开发创新的AI解决方案，以应对各个领域的现实挑战。我关注在数据高效的场景下训练任务专用的AI模型（例如知识蒸馏、少样本学习、自监督/半监督学习和主动学习），以及通过整合大型语言模型（LLMs）、多模态大型语言模型（MLLMs）和智能体AI框架，构建真正能自动化并辅助人类工作流程的系统。此外，我也关注大模型的可信与安全：通过验证、策略遵循和行为引导，让黑盒大模型按照我们的意图行事，从而真正造福人类，尤其是在客服、网页和具身AI等真实环境中行动的智能体。</p>
 
@@ -51,7 +51,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 </div>
 
 <div id="korean-content" class="language-section korean-section" style="display: none;">
-  <p>현재 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 전문연구요원으로 일하고 있습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
+  <p>현재 <a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a> (MG AI)에서 머신러닝 엔지니어로 일하고 있습니다. 이전에는 <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>에서 전문연구요원으로 일했습니다. KAIST 인공지능대학원에서 <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">황성주</a> 교수님 지도로 석사학위를 받았습니다. 연구 협업에 관심 있으시면 언제든지 연락주세요!</p>
 
   <p>현실에서 다양한 문제들을 AI를 이용해서 푸는 것에 관심이 많습니다. 데이터 효율적인 환경에서 태스크 특화 AI 모델을 학습하는 것(e.g., knowledge distillation, few-shot learning, self-/semi-supervised learning, active learning)과, 대규모 언어 모델(LLM), 멀티모달 대규모 언어 모델(MLLM), 에이전틱 AI 프레임워크를 활용해 사람의 업무를 실제로 자동화하고 보조하는 시스템을 만드는 것에 관심이 있습니다. 또한 블랙박스 대규모 모델이 우리가 의도한 대로 동작하도록 만드는 신뢰성과 안전성(trust & safety) 연구에도 관심이 있습니다. 검증(verification), 정책 준수(policy adherence), 행동 제어(behavior steering) 등을 통해 대규모 모델이 사람에게 진정으로 도움이 되도록 하는 것이며, 특히 고객 상담, 웹, 임바디드 AI처럼 실제 환경에서 동작하는 에이전트의 안전성에 관심이 있습니다.</p>
 
@@ -112,7 +112,8 @@ Y. Hwang, S. Ham, Y. Jun, J. Kang, S. Cho, **S. Kang**, S. H. Lee  \
 - *2016.02 - 2022.02*, B.S. in Computer Science (major) and Electrical Engineering (minor), <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">KAIST</a>
 
 # 💻 Work Experience
-- *2024.05 - Present*, Research Scientist/Engineer (Military Substitution) at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>
+- *2026.05 - Present*, Machine Learning Engineer at <a href="https://mtch.com/" style="color: #7289da; text-decoration: none;">Match Group</a> (MG AI)
+- *2024.05 - 2026.05*, Research Scientist/Engineer (Military Substitution) at <a href="https://vuno.co/" style="color: #7289da; text-decoration: none;">VUNO</a>
 - *2024.02 - 2024.03*, Research Scientist/Engineer at <a href="https://deepauto.ai/" style="color: #7289da; text-decoration: none;">Deepauto AI</a>
 - *2020.09 - 2021.09*, Research Scientist/Engineer at <a href="https://www.voyagerx.com/" style="color: #7289da; text-decoration: none;">VoyagerX</a>
 - *2019.03 - 2019.08*, Undergraduate Research Assistant at <a href="https://sgvr.kaist.ac.kr/" style="color: #7289da; text-decoration: none;">SGVR Lab</a>, KAIST, Daejeon, South Korea. Prof: <a href="https://sgvr.kaist.ac.kr/~sungeui/" style="color: #7289da; text-decoration: none;">Sung-eui Yoon</a>
