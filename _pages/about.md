@@ -79,7 +79,8 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 **Seongjae Kang** *, Dong Bok Lee *, Hyungjoon Jang, Sung Ju Hwang (\* equal contribution)  \
 <span style="color:purple">NeurIPS 2026</span>
 
-- <font size="3">Deconstructing Multi-Task Active Learning: The Paradox of Gradient Conflict and Orthogonal Decomposition</font>  \
+- <font size="3">Deconstructing Multi-Task Active Learning: The Paradox of Gradient Conflict and Orthogonal Decomposition</font>
+[[paper]](https://arxiv.org/abs/2610.23623) [[project page]](https://juho-jung.github.io/multitask_active_learning_official/)  \
 Juho Jung *, **Seongjae Kang** *, Jinyoung Han (\* equal contribution)  \
 <span style="color:purple">NeurIPS 2026</span>
 
@@ -98,7 +99,8 @@ Seunghoon Lee, **Seongjae Kang**, Inhyuk Park, Gitaek Kwon, Jihyeon Baek, Doohyu
 Y. Hwang, S. Ham, Y. Jun, J. Kang, S. Cho, **S. Kang**, S. H. Lee  \
 <span style="color:purple">ECR 2026 (Scientific Exhibit)</span>
 
-- <font size="3">PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents</font>  \
+- <font size="3">PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents</font>
+[[paper]](https://arxiv.org/abs/2608.19861) [[project page]](https://policyguide.github.io/)  \
 **Seongjae Kang**, Taehyung Yu, Sung Ju Hwang  \
 <span style="color:purple">Who Verifies the Agents? Toward Reliable Agent Development, NeurIPS 2026 Workshop</span>
 
