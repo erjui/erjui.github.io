@@ -63,7 +63,7 @@ Outside of research, I enjoy learning new languages 📚 (currently studying <a 
 <span class="anchor" id="news"></span>
 
 # 🔥 News
-- *2026*: &nbsp;🎉 Two papers accepted at <strong>NeurIPS 2026</strong>, and PolicyGuide and PolicyGuard accepted at the <strong>Who Verifies the Agents? workshop at NeurIPS 2026</strong>!
+- *2026*: &nbsp;🎉 Two papers accepted at <strong>NeurIPS 2026</strong>!
 - *2026*: &nbsp;🎉 CostNav accepted at <strong>CoRL 2026</strong>, following its presentation at the ScaleBot Workshop at CVPR 2026.
 - *2026.06*: &nbsp;🎉 One paper accepted at <strong>ML for Audio Workshop @ ICML 2026</strong>!
 - *2026.05*: &nbsp;🎉 One paper accepted at <strong>ScaleBot Workshop @ CVPR 2026</strong>!
